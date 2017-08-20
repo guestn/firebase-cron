@@ -2,8 +2,10 @@
   "name": "functions",
   "description": "Cloud Functions for Firebase",
   "dependencies": {
-    "firebase-admin": "^4.1.2",
-    "firebase-functions": "^0.5"
+    "fetch": "^1.1.0",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.5",
+    "node-fetch": "^1.7.2"
   },
   "private": true
 }
